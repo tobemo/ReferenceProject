@@ -15,5 +15,6 @@ torch
 torchmetrics
 onnxruntime
 tensorboard
+optuna-dashboard
 
 --extra-index-url https://download.pytorch.org/whl/cu118
